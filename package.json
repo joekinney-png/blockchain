@@ -1,0 +1,23 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "blockchain development sandbox",
+  "main": "hashing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joekinney-png/blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joekinney-png/blockchain/issues"
+  },
+  "homepage": "https://github.com/joekinney-png/blockchain#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
